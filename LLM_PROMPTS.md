@@ -144,16 +144,19 @@ Wait for my approval before producing the implementation.
 
 
 
+
+
+
+
 This is the game_engine.py you have to make changes....
+
+
 
 import math
 import random
 import pygame
-
-
 class GameEngine:
-
-    def __init__(self, width, height):
+        def __init__(self, width, height):
         self.width = width
         self.height = height
 
