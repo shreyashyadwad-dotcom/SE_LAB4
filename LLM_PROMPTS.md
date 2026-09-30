@@ -1,27 +1,29 @@
+# LLM-Assisted Development Flow
+
 ORIGINAL GAME
-     ↓
+↓
 Run + observe
-     ↓
-10-sec BEFORE video
-     ↓
+↓
+10-second BEFORE video
+↓
 PROMPT 1
-     ↓
+↓
 LLM analyzes existing code
-     ↓
-You critically review
-     ↓
+↓
+Critical code review
+↓
 IMPLEMENTATION PROMPT
-     ↓
+↓
 Apply changes
-     ↓
+↓
 Run game
-     ↓
+↓
 TESTING PROMPT
-     ↓
+↓
 Verify requirements
-     ↓
-10-sec AFTER video
-     ↓
+↓
+10-second AFTER video
+↓
 Submit complete ChatGPT conversation link
 
 
